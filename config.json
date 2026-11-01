@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-functions-file-io",
+      "title": "Python Functions & File I/O Challenge",
+      "description": "Read, process, and summarize data from text files using Python functions",
+      "path": "assignments/python-functions-file-io",
+      "dueDate": "2026-12-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
